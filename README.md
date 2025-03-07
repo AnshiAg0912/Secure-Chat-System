@@ -1,8 +1,6 @@
 # Secure-Chat-System
 A secure, real-time messaging system designed for multi-user communication with end-to-end encryption. Messages are encrypted and can only be decrypted with the correct secret code, ensuring maximum confidentiality. Ideal for sensitive communications where security is critical.
 
-A real-time messaging platform designed with a focus on security and confidentiality. The system allows multiple users to securely exchange messages by using a secret code. Messages are encrypted before transmission and can only be decrypted by entering the correct secret code, ensuring that only authorized parties can access the content.
-
 ### Key Features:
 - **Multi-User Support:** Multiple users can connect to the system simultaneously, engaging in secure, real-time conversations.
 - **Secret Code Protection:** Messages are encrypted with a unique secret code, and decryption can only occur when the correct code is entered. This provides a high level of security against unauthorized access.
